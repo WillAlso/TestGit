@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 File is different from third
+=======
+file4
+>>>>>>> third
